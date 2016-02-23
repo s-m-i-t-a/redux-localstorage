@@ -1,0 +1,7 @@
+{
+  "name": "redux-localstorage",
+  "main": "redux-localstorage.d.ts",
+  "author": "Jindrich K. Smitka",
+  "description": "Type definitions for redux-localstorage",
+  "dependencies": {}
+}

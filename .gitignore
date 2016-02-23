@@ -1,0 +1,34 @@
+# Backup
+*~
+
+tmp
+.tmp
+
+.DS_Store
+.cache
+
+
+# Tags
+TAGS
+tags
+ID
+
+
+# Editors
+.idea
+.vimrc
+
+
+# Logs
+*.log
+
+# Client libs
+node_modules/
+bower_components/
+
+
+# Keep dirs
+!.gitkeep
+
+
+typings/
